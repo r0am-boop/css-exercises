@@ -1,0 +1,17 @@
+.odd-number{
+    background-color: #f06363;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#originalID{
+    color: #008fff;
+    font-size: 36px;
+}
+
+#copyID{
+    background-color: #68f252;
+    font-weight: bold;
+}
+.cooler{
+    font-size: 24px;
+}

@@ -59,11 +59,15 @@ ul {
   display: flex;
   margin: 0;
   padding: 0;
-  gap: 16px;
+  gap: 37px;
 }
 
 .left, .right {
   display: flex;
   align-items: center;
   gap: 16px;
+}
+
+* {
+  outline: 2px solid red;
 }
